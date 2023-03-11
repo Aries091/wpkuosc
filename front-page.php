@@ -14,7 +14,7 @@
                             vibrant historic community from Kathmandu University which provides a common platform for
                             all FOSS enthusiasts to discuss, share, and learn about free and open source softwares.</p>
                         <p class="desc">KUOSC is specifically focused on all the Open Source related activities ranging
-                            from training programs like Linux Talks, Useful Network Training to advocacy
+                            from training programs like Linux Talks, useful Network Training to advocacy
                             activities like Software Freedom Day celebration and organizing different community level
                             workshops and events.</p>
                     </div>
